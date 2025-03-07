@@ -1,0 +1,12 @@
+streamlit
+numpy
+keras
+pandas
+TensorFlow
+nltk
+spacy
+gensim
+sentence_transformers
+pymupdf
+fitz
+
