@@ -7,7 +7,6 @@ nltk
 spacy
 gensim
 sentence_transformers
-pymupdf
 fitz
 pymupdf
 
